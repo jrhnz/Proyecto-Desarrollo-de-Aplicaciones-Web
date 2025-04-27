@@ -1,0 +1,9 @@
+$primary: #ff00f7;
+$secondary: #00ffe5;
+.card{
+    background-color: $primary;
+    margin: 30px;
+}
+.btn.info{
+    background-color:$secondary;
+}
